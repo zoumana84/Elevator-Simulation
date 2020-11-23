@@ -1,4 +1,3 @@
-# HopkinsLab1
 Program Description:
 
 The program reads the simulation file and prints out the name of each person who attempts to use the elevator along with their entrance and exit floor. The program then outputs
